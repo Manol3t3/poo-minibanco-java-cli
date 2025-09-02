@@ -9,6 +9,6 @@ public class Main{
         Cliente cliente2 = new Cliente("Juan Perez",333);
         CuentaBancaria cuenta2 = new CuentaBancaria(123, new Cliente("Luis",2345),234);
 
-        Cliente cliente3 = new Cliente("Luis domingues",3333);
+        //Cliente cliente3 = new Cliente("Luis domingues",3333);
     }    
 }
