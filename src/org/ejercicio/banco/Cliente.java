@@ -5,8 +5,8 @@ class Cliente{
     long dni;
 
     public Cliente (String str, long num){
-        this.nombre =str;
+        this.nombre = str;
         this.dni = num;
     }
-    public Cliente(){}
+    
 }
